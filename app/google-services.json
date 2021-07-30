@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616516205254",
+    "project_id": "online-school-6ed40",
+    "storage_bucket": "online-school-6ed40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616516205254:android:91f91f575f5c6cbdd435c7",
+        "android_client_info": {
+          "package_name": "com.example.onlineschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616516205254-6mpskde68a344gf2if8rffaknppqb7fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBanz1ecz9FaAsblCyvKFD2XnnnGpthvfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616516205254-6mpskde68a344gf2if8rffaknppqb7fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
